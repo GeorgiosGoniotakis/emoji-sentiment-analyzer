@@ -21,10 +21,10 @@ class ConfigLoader:
         A simple constructor that keeps track of the configurations.
         """
         self.conf = None
-        self.__logger = Logger(name='emoji_logger')
-        self.get_credentials()
+        self.__logger = Logger(name='Config Loader')
+        self.get_configurations()
 
-    def get_credentials(self):
+    def get_configurations(self):
         """
         Retrieves the credentials from the config.ini file
         """
@@ -33,9 +33,10 @@ class ConfigLoader:
         cfg = configparser.ConfigParser()
         cfg.read("../config.ini")
 
+        # TODO: Load all different configs here
         if "logging" in cfg:
-            self.conf = cfg['logging']
-            print("Configs" + self.conf)
+            self.conf = dict(cfg.items('logging'))
+            self.__logger.log(message="Successfully loaded settings from config.ini", mtype="INFO")
         else:
             self.__logger.log(message="Wrong configurations in file: config.ini", mtype="CRITICAL")
             exit(100)

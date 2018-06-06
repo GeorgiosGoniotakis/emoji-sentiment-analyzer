@@ -4,7 +4,6 @@ import urllib3
 
 
 class EmojiLoader:
-
     FILE_URL = "http://unicode.org/Public/emoji/11.0/"
 
     # TODO: Implement mode

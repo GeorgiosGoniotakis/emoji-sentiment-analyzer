@@ -3,6 +3,7 @@ import datetime
 import coloredlogs, logging
 
 
+# TODO: Comments here
 class Logger:
     def __init__(self, name: str, mode='DEBUG', out=None):
         self.__logger = None

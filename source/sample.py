@@ -1,7 +1,6 @@
 """
 
 """
-
 from logger.logger import Logger
 from data.EmojiLoader import EmojiLoader
 from config.config import ConfigLoader

@@ -1,0 +1,2 @@
+class SentimentAnalyzer:
+    pass

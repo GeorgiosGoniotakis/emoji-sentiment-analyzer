@@ -6,6 +6,7 @@ This is the file containing the implementation of the ConfigLoader class.
 """
 
 import configparser
+import os
 
 from logger.logger import Logger
 
@@ -29,8 +30,11 @@ class ConfigLoader:
         """
 
         # Retrieve configurations from config.ini file
+        dirname = os.path.dirname(__file__)
+        filename = os.path.join(dirname, '../../config.ini')
+
         cfg = configparser.ConfigParser()
-        cfg.read("../config.ini")
+        cfg.read(filename)
 
         # TODO: Load all different configs here
         if "logging" in cfg:

@@ -1,4 +1,4 @@
-from source.logger.logger import Logger
+from logger.logger import Logger
 
 import urllib3
 

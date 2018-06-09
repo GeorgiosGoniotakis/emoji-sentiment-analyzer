@@ -1,6 +1,6 @@
 import unittest
 
-from source.data.EmojiLoader import EmojiLoader
+from data.EmojiLoader import EmojiLoader
 
 
 class MyTestCase(unittest.TestCase):

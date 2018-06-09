@@ -1,6 +1,6 @@
 import unittest
 
-from data.EmojiLoader import EmojiLoader
+from sentimentanalyzer.data.EmojiLoader import EmojiLoader
 
 
 class MyTestCase(unittest.TestCase):

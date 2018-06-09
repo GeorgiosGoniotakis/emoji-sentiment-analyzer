@@ -1,11 +1,12 @@
 #run-unit:
 .SILENT:
+PYLINT = pylint
+PYLINTFLAGS = -rn
 
 code-analysis:
-	echo "========== Pylint Output ==========\n"
-	pylint source
-	echo "========== End of Pylint Output ==========\n"
-	#pycodestyle source
+	bash scripts/validate.sh
 
 package:
 	source activate /anaconda3/envs/emoji/ && pip freeze > requirements.txt && source deactivate
+
+

@@ -7,7 +7,7 @@ setup(
     name='sentiment-analyzer',
     version='1.0',
     packages=['', 'data', 'config', 'logger'],
-    package_dir={'': 'source'},
+    package_dir={'': 'sentimentanalyzer'},
     url='https://github.com/GeorgiosGoniotakis/sentiment-analyzer',
     license='MIT',
     author='Georgios Goniotakis',

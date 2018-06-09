@@ -12,6 +12,10 @@ install:
   - conda create -q --name sentiment-analyzer python=$TRAVIS_PYTHON_VERSION --file requirements.txt
   - source activate sentiment-analyzer
   - python setup.py install
+  - pip install codecov
 script:
   - python source/sample.py
   - python -v -m unittest
+  - coverage run tests/test_simple.py
+after_success:
+  - codecov

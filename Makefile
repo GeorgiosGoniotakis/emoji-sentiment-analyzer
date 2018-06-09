@@ -1,7 +1,5 @@
 #run-unit:
 .SILENT:
-PYLINT = pylint
-PYLINTFLAGS = -rn
 
 code-analysis:
 	bash scripts/validate.sh

@@ -1,6 +1,9 @@
+import os
+
 import inspect
 import datetime
-import coloredlogs, logging
+import coloredlogs
+import logging
 
 
 # TODO: Comments here
@@ -10,7 +13,16 @@ class Logger:
         self.__name = name
         self.__mode = mode
         self.__out = out
+        self.__create_directory()
         self.setup_logger()
+
+    def __create_directory(self):
+        try:
+            if not os.path.exists("logs"):
+                os.makedirs("logs")
+        except Exception as e:
+            print("Problem creating log directory. Error Message: " + str(e))
+            exit(103)
 
     def setup_logger(self):
         self.__logger = logging.getLogger(self.__name)
@@ -18,7 +30,7 @@ class Logger:
 
         # If output file path is set add handler
         if self.__out:
-            fh = logging.FileHandler("../logs/" + self.__out)
+            fh = logging.FileHandler("logs/" + self.__out)
             fh.setLevel(self.__mode)
             self.__logger.addHandler(fh)
 

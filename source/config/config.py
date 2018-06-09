@@ -5,9 +5,9 @@
 This is the file containing the implementation of the ConfigLoader class.
 """
 
-from logger.logger import Logger
-
 import configparser
+
+from logger.logger import Logger
 
 
 class ConfigLoader:
@@ -22,7 +22,6 @@ class ConfigLoader:
         """
         self.conf = None
         self.__logger = Logger(name='Config Loader')
-        self.get_configurations()
 
     def get_configurations(self):
         """
@@ -40,3 +39,14 @@ class ConfigLoader:
         else:
             self.__logger.log(message="Wrong configurations in file: config.ini", mtype="CRITICAL")
             exit(100)
+
+    def reset_config_file(self):
+        try:
+            with open("../config.ini", 'w') as file:
+                file.write(";This file includes all the logging parameters of the project. \n;"
+                           "Please modify as preferred.\n[logging]\nlogger=true\nlevel=DEBUG")
+                print("Successfully reset config file.")
+                file.close()
+        except Exception as e:
+            print("Problem resetting config file. Error Message: " + str(e))
+            exit(104)

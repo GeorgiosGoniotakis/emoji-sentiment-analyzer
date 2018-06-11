@@ -169,4 +169,7 @@ venv.bak/
 # remove logs
 logs/*
 
+# Remove local files
+TODO.txt
+
 # End of https://www.gitignore.io/api/python,pycharm

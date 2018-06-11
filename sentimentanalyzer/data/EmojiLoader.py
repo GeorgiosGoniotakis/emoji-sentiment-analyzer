@@ -1,12 +1,15 @@
 from logger.logger import Logger
 
-import urllib3
+import pandas as pd
 
 
 class EmojiLoader:
-    FILE_URL = "http://unicode.org/Public/emoji/11.0/"
+    """
 
-    # TODO: Implement mode
+    """
+    FILE_URL = "https://unicode.org/Public/emoji/11.0/emoji-test.txt"
+
+    # TODO: Remove mode, make it local
     def __init__(self, mode):
         """
 
@@ -18,14 +21,13 @@ class EmojiLoader:
     def load(self):
 
         try:
-            http = urllib3.PoolManager()
-            r = http.request('GET', self.FILE_URL)
+            d = pd.read_csv(self.FILE_URL, sep=" ", header=None)
 
-            if r.status != 200:
-                self.__logger.log(message="Problem loading data using HTTP. Error code: " + r.status, mtype="CRITICAL")
+            if d.status != 200:
+                self.__logger.log(message="Problem loading data using HTTP. Error code: " + d.status, mtype="CRITICAL")
                 exit(102)
             self.__logger.log(message="Successfully loaded source dataset from URL", mtype="INFO")
-            return r.data
+            return d
         except Exception as e:
             self.__logger.log(message="Problem performing HTTP request. Error message: " + str(e), mtype="CRITICAL")
             exit(101)

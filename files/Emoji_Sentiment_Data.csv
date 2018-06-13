@@ -1,0 +1,970 @@
+Emoji;Unicode codepoint;Negative;Neutral;Positive;Sentiment Score;unicode name
+😂;0x1f602;3614;4163;6845;3231;face with tears of joy
+❤;0x2764;355;1334;6361;6006;heavy black heart
+♥;0x2665;252;1942;4950;4698;black heart suit
+😍;0x1f60d;329;1390;4640;4311;smiling face with heart-shaped eyes
+😭;0x1f62d;2412;1218;1896;-516;loudly crying face
+😘;0x1f618;193;702;2753;2560;face throwing a kiss
+😊;0x1f60a;189;754;2243;2054;smiling face with smiling eyes
+👌;0x1f44c;274;728;1923;1649;ok hand sign
+💕;0x1f495;99;683;1618;1519;two hearts
+👏;0x1f44f;243;634;1459;1216;clapping hands sign
+😁;0x1f601;278;648;1263;985;grinning face with smiling eyes
+☺;0x263a;128;449;1485;1357;white smiling face
+♡;0x2661;102;448;1425;1323;white heart suit
+👍;0x1f44d;213;460;1181;968;thumbs up sign
+😩;0x1f629;1069;336;403;-666;weary face
+🙏;0x1f64f;124;648;767;643;person with folded hands
+✌;0x270c;173;476;885;712;victory hand
+😏;0x1f60f;170;676;676;506;smirking face
+😉;0x1f609;151;513;857;706;winking face
+🙌;0x1f64c;152;358;996;844;person raising both hands in celebration
+🙈;0x1f648;238;350;868;630;see-no-evil monkey
+💪;0x1f4aa;101;424;884;783;flexed biceps
+😄;0x1f604;191;426;781;590;smiling face with open mouth and smiling eyes
+😒;0x1f612;819;266;300;-519;unamused face
+💃;0x1f483;59;237;1048;989;dancer
+💖;0x1f496;54;254;955;901;sparkling heart
+😃;0x1f603;86;361;759;673;smiling face with open mouth
+😔;0x1f614;559;263;383;-176;pensive face
+😱;0x1f631;298;319;513;215;face screaming in fear
+🎉;0x1f389;43;207;875;832;party popper
+😜;0x1f61c;115;333;587;472;face with stuck-out tongue and winking eye
+☯;0x262f;5;981;6;1;yin yang
+🌸;0x1f338;37;255;654;617;cherry blossom
+💜;0x1f49c;41;241;657;616;purple heart
+💙;0x1f499;29;186;697;668;blue heart
+✨;0x2728;43;463;342;299;sparkles
+😳;0x1f633;277;277;292;15;flushed face
+💗;0x1f497;42;201;593;551;growing heart
+★;0x2605;25;543;260;235;black star
+█;0x2588;71;682;45;-26;full block
+☀;0x2600;21;377;388;367;black sun with rays
+😡;0x1f621;403;81;272;-131;pouting face
+😎;0x1f60e;79;224;451;372;smiling face with sunglasses
+😢;0x1f622;288;168;293;5;crying face
+💋;0x1f48b;28;169;537;509;kiss mark
+😋;0x1f60b;33;203;498;465;face savouring delicious food
+🙊;0x1f64a;97;197;431;334;speak-no-evil monkey
+😴;0x1f634;303;170;245;-58;sleeping face
+🎶;0x1f3b6;67;189;445;378;multiple musical notes
+💞;0x1f49e;27;123;537;510;revolving hearts
+😌;0x1f60c;93;157;415;322;relieved face
+🔥;0x1f525;80;400;171;91;fire
+💯;0x1f4af;179;202;256;77;hundred points symbol
+🔫;0x1f52b;298;126;180;-118;pistol
+💛;0x1f49b;25;123;454;429;yellow heart
+💁;0x1f481;105;159;285;180;information desk person
+💚;0x1f49a;41;101;395;354;green heart
+♫;0x266b;33;313;187;154;beamed eighth notes
+😞;0x1f61e;255;85;192;-63;disappointed face
+😆;0x1f606;81;148;298;217;smiling face with open mouth and tightly-closed eyes
+😝;0x1f61d;65;155;276;211;face with stuck-out tongue and tightly-closed eyes
+😪;0x1f62a;208;105;169;-39;sleepy face
+�;0xfffd;78;275;119;41;replacement character
+😫;0x1f62b;227;81;159;-68;tired face
+😅;0x1f605;135;109;218;83;smiling face with open mouth and cold sweat
+👊;0x1f44a;121;111;226;105;fisted hand sign
+💀;0x1f480;214;123;119;-95;skull
+😀;0x1f600;37;114;288;251;grinning face
+😚;0x1f61a;20;81;323;303;kissing face with closed eyes
+😻;0x1f63b;28;101;288;260;smiling cat face with heart-shaped eyes
+©;0xa9;54;259;103;49;copyright sign
+👀;0x1f440;93;198;119;26;eyes
+💘;0x1f498;18;87;290;272;heart with arrow
+🐓;0x1f413;41;291;52;11;rooster
+☕;0x2615;53;182;147;94;hot beverage
+👋;0x1f44b;60;103;219;159;waving hand sign
+✋;0x270b;124;82;172;48;raised hand
+🎊;0x1f38a;20;59;284;264;confetti ball
+🍕;0x1f355;19;166;167;148;slice of pizza
+❄;0x2744;34;103;212;178;snowflake
+😥;0x1f625;108;83;150;42;disappointed but relieved face
+😕;0x1f615;205;66;69;-136;confused face
+💥;0x1f4a5;23;234;72;49;collision symbol
+💔;0x1f494;136;96;96;-40;broken heart
+😤;0x1f624;157;82;88;-69;face with look of triumph
+😈;0x1f608;66;106;153;87;smiling face with horns
+►;0x25ba;40;192;93;53;black right-pointing pointer
+✈;0x2708;13;161;148;135;airplane
+🔝;0x1f51d;26;106;171;145;top with upwards arrow above
+😰;0x1f630;132;44;126;-6;face with open mouth and cold sweat
+⚽;0x26bd;15;83;201;186;soccer ball
+😑;0x1f611;154;85;60;-94;expressionless face
+👑;0x1f451;12;65;221;209;crown
+😹;0x1f639;88;77;130;42;cat face with tears of joy
+👉;0x1f449;20;137;135;115;white right pointing backhand index
+🍃;0x1f343;29;122;140;111;leaf fluttering in wind
+🎁;0x1f381;11;45;232;221;wrapped present
+😠;0x1f620;163;49;76;-87;angry face
+🐧;0x1f427;11;131;142;131;penguin
+☆;0x2606;8;144;130;122;white star
+🍀;0x1f340;6;186;86;80;four leaf clover
+🎈;0x1f388;4;68;205;201;balloon
+🎅;0x1f385;7;172;95;88;father christmas
+😓;0x1f613;118;59;96;-22;face with cold sweat
+😣;0x1f623;147;35;89;-58;persevering face
+😐;0x1f610;150;76;44;-106;neutral face
+✊;0x270a;37;79;154;117;raised fist
+😨;0x1f628;117;73;79;-38;fearful face
+😖;0x1f616;130;50;88;-42;confounded face
+💤;0x1f4a4;38;91;138;100;sleeping symbol
+💓;0x1f493;15;55;189;174;beating heart
+👎;0x1f44e;128;51;79;-49;thumbs down sign
+💦;0x1f4a6;35;62;155;120;splashing sweat symbol
+✔;0x2714;31;119;99;68;heavy check mark
+😷;0x1f637;117;54;75;-42;face with medical mask
+⚡;0x26a1;10;182;54;44;high voltage sign
+🙋;0x1f64b;30;60;146;116;happy person raising one hand
+🎄;0x1f384;15;79;142;127;christmas tree
+💩;0x1f4a9;94;68;67;-27;pile of poo
+🎵;0x1f3b5;23;64;136;113;musical note
+➡;0x27a1;2;185;35;33;black rightwards arrow
+😛;0x1f61b;18;50;152;134;face with stuck-out tongue
+😬;0x1f62c;57;58;99;42;grimacing face
+👯;0x1f46f;24;69;118;94;woman with bunny ears
+💎;0x1f48e;11;68;130;119;gem stone
+🌿;0x1f33f;1;125;82;81;herb
+🎂;0x1f382;16;44;141;125;birthday cake
+🌟;0x1f31f;11;111;77;66;glowing star
+🔮;0x1f52e;6;133;60;54;crystal ball
+❗;0x2757;31;116;51;20;heavy exclamation mark symbol
+👫;0x1f46b;43;60;94;51;man and woman holding hands
+🏆;0x1f3c6;6;39;149;143;trophy
+✖;0x2716;8;116;69;61;heavy multiplication x
+☝;0x261d;27;77;87;60;white up pointing index
+😙;0x1f619;3;34;154;151;kissing face with smiling eyes
+⛄;0x26c4;14;62;115;101;snowman without snow
+👅;0x1f445;23;55;112;89;tongue
+♪;0x266a;15;57;118;103;eighth note
+🍂;0x1f342;6;72;111;105;fallen leaf
+💏;0x1f48f;33;46;106;73;kiss
+🔪;0x1f52a;38;94;51;13;hocho
+🌴;0x1f334;13;57;108;95;palm tree
+👈;0x1f448;14;71;89;75;white left pointing backhand index
+🌹;0x1f339;3;61;108;105;rose
+🙆;0x1f646;15;54;102;87;face with ok gesture
+➜;0x279c;8;126;36;28;heavy round-tipped rightwards arrow
+👻;0x1f47b;28;73;67;39;ghost
+💰;0x1f4b0;26;73;69;43;money bag
+🍻;0x1f37b;17;45;103;86;clinking beer mugs
+🙅;0x1f645;76;47;42;-34;face with no good gesture
+🌞;0x1f31e;3;64;95;92;sun with face
+🍁;0x1f341;5;72;84;79;maple leaf
+⭐;0x2b50;5;55;99;94;white medium star
+▪;0x25aa;15;97;47;32;black small square
+🎀;0x1f380;6;44;106;100;ribbon
+━;0x2501;14;100;42;28;box drawings heavy horizontal
+☷;0x2637;2;140;12;10;trigram for earth
+🐷;0x1f437;11;73;68;57;pig face
+🙉;0x1f649;26;47;77;51;hear-no-evil monkey
+🌺;0x1f33a;2;62;86;84;hibiscus
+💅;0x1f485;27;36;86;59;nail polish
+🐶;0x1f436;12;37;99;87;dog face
+🌚;0x1f31a;23;32;93;70;new moon with face
+👽;0x1f47d;13;73;60;47;extraterrestrial alien
+🎤;0x1f3a4;17;40;87;70;microphone
+👭;0x1f46d;20;36;88;68;two women holding hands
+🎧;0x1f3a7;18;46;78;60;headphone
+👆;0x1f446;16;60;62;46;white up pointing backhand index
+🍸;0x1f378;12;38;88;76;cocktail glass
+🍷;0x1f377;7;68;62;55;wine glass
+®;0xae;9;80;48;39;registered sign
+🍉;0x1f349;10;33;93;83;watermelon
+😇;0x1f607;9;36;90;81;smiling face with halo
+☑;0x2611;2;117;16;14;ballot box with check
+🏃;0x1f3c3;12;55;68;56;runner
+😿;0x1f63f;78;29;27;-51;crying cat face
+│;0x2502;0;87;47;47;box drawings light vertical
+💣;0x1f4a3;40;50;41;1;bomb
+🍺;0x1f37a;8;49;74;66;beer mug
+▶;0x25b6;7;89;35;28;black right-pointing triangle
+😲;0x1f632;50;38;41;-9;astonished face
+🎸;0x1f3b8;1;57;67;66;guitar
+🍹;0x1f379;5;30;88;83;tropical drink
+💫;0x1f4ab;4;51;66;62;dizzy symbol
+📚;0x1f4da;22;34;63;41;books
+😶;0x1f636;50;34;33;-17;face without mouth
+🌷;0x1f337;0;52;64;64;tulip
+💝;0x1f49d;8;23;84;76;heart with ribbon
+💨;0x1f4a8;12;46;57;45;dash symbol
+🏈;0x1f3c8;7;38;69;62;american football
+💍;0x1f48d;16;25;71;55;ring
+☔;0x2614;21;36;54;33;umbrella with rain drops
+👸;0x1f478;6;30;75;69;princess
+🇪;0x1f1ea;2;36;71;69;regional indicator symbol letter e
+░;0x2591;25;63;20;-5;light shade
+🍩;0x1f369;15;35;57;42;doughnut
+👾;0x1f47e;1;64;40;39;alien monster
+☁;0x2601;14;43;47;33;cloud
+🌻;0x1f33b;1;41;62;61;sunflower
+😵;0x1f635;33;28;42;9;dizzy face
+📒;0x1f4d2;0;98;4;4;ledger
+↿;0x21bf;0;34;68;68;upwards harpoon with barb leftwards
+🐯;0x1f42f;4;43;53;49;tiger face
+👼;0x1f47c;17;31;51;34;baby angel
+🍔;0x1f354;16;38;44;28;hamburger
+😸;0x1f638;11;34;52;41;grinning cat face with smiling eyes
+👶;0x1f476;13;27;56;43;baby
+↾;0x21be;0;32;64;64;upwards harpoon with barb rightwards
+💐;0x1f490;3;17;75;72;bouquet
+🌊;0x1f30a;8;30;57;49;water wave
+🍦;0x1f366;13;24;58;45;soft ice cream
+🍓;0x1f353;3;23;68;65;strawberry
+👇;0x1f447;13;44;37;24;white down pointing backhand index
+💆;0x1f486;24;23;45;21;face massage
+🍴;0x1f374;4;33;55;51;fork and knife
+😧;0x1f627;36;26;30;-6;anguished face
+🇸;0x1f1f8;8;27;56;48;regional indicator symbol letter s
+😮;0x1f62e;16;33;41;25;face with open mouth
+▓;0x2593;2;85;3;1;dark shade
+🚫;0x1f6ab;48;32;8;-40;no entry sign
+😽;0x1f63d;11;14;63;52;kissing cat face with closed eyes
+🌈;0x1f308;5;31;52;47;rainbow
+🙀;0x1f640;14;30;44;30;weary cat face
+⚠;0x26a0;16;62;10;-6;warning sign
+🎮;0x1f3ae;8;32;46;38;video game
+╯;0x256f;19;47;18;-1;box drawings light arc up and left
+🍆;0x1f346;6;37;41;35;aubergine
+🍰;0x1f370;13;19;52;39;shortcake
+✓;0x2713;9;41;34;25;check mark
+👐;0x1f450;33;19;31;-2;open hands sign
+🙇;0x1f647;24;23;36;12;person bowing deeply
+🍟;0x1f35f;14;29;40;26;french fries
+🍌;0x1f34c;10;25;47;37;banana
+💑;0x1f491;5;16;61;56;couple with heart
+👬;0x1f46c;29;29;24;-5;two men holding hands
+🐣;0x1f423;12;17;52;40;hatching chick
+🎃;0x1f383;6;19;56;50;jack-o-lantern
+▬;0x25ac;0;42;39;39;black rectangle
+;0xfffc;44;33;4;-40;object replacement character
+😟;0x1f61f;28;18;34;6;worried face
+🐾;0x1f43e;8;13;57;49;paw prints
+🎓;0x1f393;7;18;52;45;graduation cap
+🏊;0x1f3ca;2;27;48;46;swimmer
+🍫;0x1f36b;22;20;34;12;chocolate bar
+📷;0x1f4f7;7;28;41;34;camera
+👄;0x1f444;5;28;42;37;mouth
+🌼;0x1f33c;1;12;61;60;blossom
+🚶;0x1f6b6;28;29;17;-11;pedestrian
+🐱;0x1f431;10;14;49;39;cat face
+║;0x2551;0;62;11;11;box drawings double vertical
+🐸;0x1f438;24;30;18;-6;frog face
+🇺;0x1f1fa;8;15;48;40;regional indicator symbol letter u
+👿;0x1f47f;47;15;8;-39;imp
+🚬;0x1f6ac;8;16;46;38;smoking symbol
+✿;0x273f;2;38;30;28;black florette
+📖;0x1f4d6;18;20;30;12;open book
+🐒;0x1f412;1;29;38;37;monkey
+🌍;0x1f30d;5;16;47;42;earth globe europe-africa
+┊;0x250a;0;0;68;68;box drawings light quadruple dash vertical
+🐥;0x1f425;4;18;45;41;front-facing baby chick
+🌀;0x1f300;10;39;17;7;cyclone
+🐼;0x1f43c;4;40;22;18;panda face
+🎥;0x1f3a5;8;30;28;20;movie camera
+💄;0x1f484;6;24;36;30;lipstick
+💸;0x1f4b8;16;23;27;11;money with wings
+⛔;0x26d4;5;22;38;33;no entry
+●;0x25cf;8;37;20;12;black circle
+🏀;0x1f3c0;13;21;30;17;basketball and hoop
+💉;0x1f489;11;18;35;24;syringe
+💟;0x1f49f;3;12;48;45;heart decoration
+🚗;0x1f697;8;31;23;15;automobile
+😯;0x1f62f;16;22;24;8;hushed face
+📝;0x1f4dd;8;31;23;15;memo
+═;0x2550;0;61;1;1;box drawings double horizontal
+♦;0x2666;6;20;35;29;black diamond suit
+💭;0x1f4ad;10;27;23;13;thought balloon
+🌙;0x1f319;3;16;39;36;crescent moon
+🐟;0x1f41f;2;12;44;42;fish
+👣;0x1f463;6;25;27;21;footprints
+☞;0x261e;0;51;7;7;white right pointing index
+✂;0x2702;34;18;6;-28;black scissors
+🗿;0x1f5ff;5;21;32;27;moyai
+🍝;0x1f35d;16;18;23;7;spaghetti
+👪;0x1f46a;24;10;23;-1;family
+🍭;0x1f36d;9;21;27;18;lollipop
+🌃;0x1f303;3;27;26;23;night with stars
+❌;0x274c;14;12;30;16;cross mark
+🐰;0x1f430;4;13;38;34;rabbit face
+💊;0x1f48a;8;14;33;25;pill
+🚨;0x1f6a8;6;6;43;37;police cars revolving light
+😦;0x1f626;30;15;9;-21;frowning face with open mouth
+🍪;0x1f36a;10;16;28;18;cookie
+🍣;0x1f363;24;18;11;-13;sushi
+╭;0x256d;3;38;12;9;box drawings light arc down and right
+✧;0x2727;1;33;19;18;white four pointed star
+🎆;0x1f386;2;9;41;39;fireworks
+╮;0x256e;5;35;12;7;box drawings light arc down and left
+🎎;0x1f38e;0;2;49;49;japanese dolls
+🇩;0x1f1e9;1;16;34;33;regional indicator symbol letter d
+✅;0x2705;3;23;25;22;white heavy check mark
+👹;0x1f479;13;20;16;3;japanese ogre
+📱;0x1f4f1;4;25;20;16;mobile phone
+🙍;0x1f64d;29;8;12;-17;person frowning
+🍑;0x1f351;12;12;25;13;peach
+🎼;0x1f3bc;2;28;19;17;musical score
+🔊;0x1f50a;4;20;25;21;speaker with three sound waves
+🌌;0x1f30c;5;11;31;26;milky way
+🍎;0x1f34e;6;19;22;16;red apple
+🐻;0x1f43b;6;13;28;22;bear face
+─;0x2500;0;40;7;7;box drawings light horizontal
+╰;0x2570;7;36;4;-3;box drawings light arc up and right
+💇;0x1f487;7;16;23;16;haircut
+♬;0x266c;4;26;16;12;beamed sixteenth notes
+♚;0x265a;0;44;2;2;black chess king
+🔴;0x1f534;1;24;20;19;large red circle
+🍱;0x1f371;25;10;10;-15;bento box
+🍊;0x1f34a;6;13;26;20;tangerine
+🍒;0x1f352;6;18;21;15;cherries
+🐭;0x1f42d;0;12;33;33;mouse face
+👟;0x1f45f;5;15;25;20;athletic shoe
+🌎;0x1f30e;5;19;20;15;earth globe americas
+🍍;0x1f34d;7;8;29;22;pineapple
+🐮;0x1f42e;2;12;29;27;cow face
+📲;0x1f4f2;7;18;18;11;mobile phone with rightwards arrow at left
+☼;0x263c;2;30;11;9;white sun with rays
+🌅;0x1f305;6;14;22;16;sunrise
+🇷;0x1f1f7;1;10;31;30;regional indicator symbol letter r
+👠;0x1f460;6;14;22;16;high-heeled shoe
+🌽;0x1f33d;5;12;25;20;ear of maize
+💧;0x1f4a7;20;8;13;-7;droplet
+❓;0x2753;7;24;10;3;black question mark ornament
+🍬;0x1f36c;8;9;24;16;candy
+😺;0x1f63a;8;7;25;17;smiling cat face with open mouth
+🐴;0x1f434;8;21;11;3;horse face
+🚀;0x1f680;2;15;23;21;rocket
+¦;0xa6;7;1;32;25;broken bar
+💢;0x1f4a2;6;18;16;10;anger symbol
+🎬;0x1f3ac;2;24;14;12;clapper board
+🍧;0x1f367;9;9;22;13;shaved ice
+🍜;0x1f35c;9;5;26;17;steaming bowl
+🐏;0x1f40f;2;12;26;24;ram
+🐘;0x1f418;9;21;10;1;elephant
+👧;0x1f467;10;14;16;6;girl
+⠀;0x2800;6;26;8;2;braille pattern blank
+🏄;0x1f3c4;2;13;24;22;surfer
+➤;0x27a4;0;26;13;13;black rightwards arrowhead
+⬆;0x2b06;1;25;13;12;upwards black arrow
+🍋;0x1f34b;6;16;16;10;lemon
+🆗;0x1f197;6;4;28;22;squared ok
+⚪;0x26aa;0;19;18;18;medium white circle
+📺;0x1f4fa;3;16;18;15;television
+🍅;0x1f345;9;5;23;14;tomato
+⛅;0x26c5;4;11;22;18;sun behind cloud
+🐢;0x1f422;6;17;14;8;turtle
+👙;0x1f459;3;11;23;20;bikini
+🏡;0x1f3e1;5;9;22;17;house with garden
+🌾;0x1f33e;5;5;26;21;ear of rice
+◉;0x25c9;0;26;10;10;fisheye
+✏;0x270f;3;16;16;13;pencil
+🐬;0x1f42c;2;15;18;16;dolphin
+🍤;0x1f364;6;21;8;2;fried shrimp
+🇹;0x1f1f9;0;13;22;22;regional indicator symbol letter t
+♣;0x2663;4;14;17;13;black club suit
+🐝;0x1f41d;5;17;13;8;honeybee
+🌝;0x1f31d;5;17;12;7;full moon with face
+🇮;0x1f1ee;0;12;22;22;regional indicator symbol letter i
+🔋;0x1f50b;22;8;4;-18;battery
+🐍;0x1f40d;3;15;16;13;snake
+♔;0x2654;0;14;20;20;white chess king
+🍳;0x1f373;13;6;14;1;cooking
+🔵;0x1f535;4;14;15;11;large blue circle
+😾;0x1f63e;20;5;8;-12;pouting cat face
+🌕;0x1f315;3;7;23;20;full moon symbol
+🐨;0x1f428;4;9;20;16;koala
+🔐;0x1f510;6;9;18;12;closed lock with key
+💿;0x1f4bf;0;11;22;22;optical disc
+❁;0x2741;0;31;2;2;eight petalled outlined black florette
+🌳;0x1f333;2;11;19;17;deciduous tree
+👰;0x1f470;3;9;20;17;bride with veil
+❀;0x2740;0;18;14;14;white florette
+⚓;0x2693;2;8;22;20;anchor
+🚴;0x1f6b4;0;9;23;23;bicyclist
+▀;0x2580;10;17;5;-5;upper half block
+👗;0x1f457;5;13;13;8;dress
+➕;0x2795;4;5;22;18;heavy plus sign
+💬;0x1f4ac;4;10;16;12;speech balloon
+▒;0x2592;2;27;1;-1;medium shade
+🔜;0x1f51c;5;11;14;9;soon with rightwards arrow above
+🍨;0x1f368;8;7;15;7;ice cream
+💲;0x1f4b2;0;22;8;8;heavy dollar sign
+⛽;0x26fd;1;23;6;5;fuel pump
+🍙;0x1f359;5;10;14;9;rice ball
+🍗;0x1f357;9;9;11;2;poultry leg
+🍲;0x1f372;7;11;11;4;pot of food
+🍥;0x1f365;22;4;3;-19;fish cake with swirl design
+▸;0x25b8;0;22;7;7;black right-pointing small triangle
+♛;0x265b;4;15;10;6;black chess queen
+😼;0x1f63c;5;7;16;11;cat face with wry smile
+🐙;0x1f419;2;12;14;12;octopus
+👨;0x1f468;2;8;18;16;man
+🍚;0x1f35a;6;2;20;14;cooked rice
+🍖;0x1f356;7;10;11;4;meat on bone
+♨;0x2668;0;1;27;27;hot springs
+🎹;0x1f3b9;0;17;11;11;musical keyboard
+♕;0x2655;0;16;12;12;white chess queen
+▃;0x2583;0;0;28;28;lower three eighths block
+🚘;0x1f698;8;9;10;2;oncoming automobile
+🍏;0x1f34f;7;11;9;2;green apple
+👩;0x1f469;9;7;11;2;woman
+👦;0x1f466;5;13;9;4;boy
+🇬;0x1f1ec;2;15;10;8;regional indicator symbol letter g
+🇧;0x1f1e7;2;15;10;8;regional indicator symbol letter b
+☠;0x2620;7;14;6;-1;skull and crossbones
+🐠;0x1f420;4;6;16;12;tropical fish
+🚹;0x1f6b9;1;4;21;20;mens symbol
+💵;0x1f4b5;3;9;14;11;banknote with dollar sign
+✰;0x2730;0;3;23;23;shadowed white star
+╠;0x2560;0;20;6;6;box drawings double vertical and right
+👛;0x1f45b;4;7;14;10;purse
+🚙;0x1f699;5;14;6;1;recreational vehicle
+🌱;0x1f331;0;9;16;16;seedling
+💻;0x1f4bb;1;16;8;7;personal computer
+🌏;0x1f30f;3;10;12;9;earth globe asia-australia
+▄;0x2584;8;11;6;-2;lower half block
+👓;0x1f453;0;16;8;8;eyeglasses
+◄;0x25c4;0;18;6;6;black left-pointing pointer
+⚾;0x26be;9;7;8;-1;baseball
+🌲;0x1f332;2;9;12;10;evergreen tree
+👴;0x1f474;5;7;11;6;older man
+🏠;0x1f3e0;1;8;14;13;house building
+🍇;0x1f347;5;6;12;7;grapes
+🍘;0x1f358;5;3;15;10;rice cracker
+🍛;0x1f35b;8;6;9;1;curry and rice
+🐇;0x1f407;4;9;10;6;rabbit
+🔞;0x1f51e;6;12;5;-1;no one under eighteen symbol
+👵;0x1f475;5;2;16;11;older woman
+◀;0x25c0;0;16;7;7;black left-pointing triangle
+🔙;0x1f519;2;14;7;5;back with leftwards arrow above
+🌵;0x1f335;6;6;11;5;cactus
+🐽;0x1f43d;5;9;8;3;pig nose
+🍮;0x1f36e;10;5;7;-3;custard
+🎇;0x1f387;1;3;18;17;firework sparkler
+🐎;0x1f40e;2;8;12;10;horse
+➔;0x2794;3;19;0;-3;heavy wide-headed rightwards arrow
+💶;0x1f4b6;3;16;3;0;banknote with euro sign
+🐤;0x1f424;1;7;14;13;baby chick
+╩;0x2569;0;17;5;5;box drawings double up and horizontal
+🛀;0x1f6c0;6;6;9;3;bath
+🌑;0x1f311;2;6;13;11;new moon symbol
+🚲;0x1f6b2;1;10;10;9;bicycle
+🐑;0x1f411;6;13;2;-4;sheep
+🏁;0x1f3c1;0;9;12;12;chequered flag
+🍞;0x1f35e;6;8;7;1;bread
+🎾;0x1f3be;2;4;15;13;tennis racquet and ball
+╚;0x255a;0;14;7;7;box drawings double up and right
+🈹;0x1f239;1;12;8;7;squared cjk unified ideograph-5272
+🐳;0x1f433;4;9;7;3;spouting whale
+👮;0x1f46e;10;8;2;-8;police officer
+☹;0x2639;14;4;2;-12;white frowning face
+🐵;0x1f435;1;7;12;11;monkey face
+✪;0x272a;0;13;7;7;circled white star
+◕;0x25d5;0;10;10;10;circle with all but upper left quadrant black
+🗼;0x1f5fc;1;6;13;12;tokyo tower
+▐;0x2590;4;15;1;-3;right half block
+♠;0x2660;0;13;7;7;black spade suit
+┳;0x2533;10;8;2;-8;box drawings heavy down and horizontal
+👺;0x1f47a;8;7;4;-4;japanese goblin
+🐚;0x1f41a;1;12;6;5;spiral shell
+👂;0x1f442;7;8;4;-3;ear
+🗽;0x1f5fd;1;10;8;7;statue of liberty
+🍵;0x1f375;3;5;11;8;teacup without handle
+🆒;0x1f192;0;11;8;8;squared cool
+🍯;0x1f36f;7;4;8;1;honey pot
+🐺;0x1f43a;2;10;7;5;wolf face
+⇨;0x21e8;0;9;10;10;rightwards white arrow
+➨;0x27a8;2;12;5;3;heavy concave-pointed black rightwards arrow
+🌓;0x1f313;0;6;13;13;first quarter moon symbol
+🔒;0x1f512;5;5;9;4;lock
+╬;0x256c;6;10;3;-3;box drawings double vertical and horizontal
+👳;0x1f473;2;1;15;13;man with turban
+🌂;0x1f302;2;9;7;5;closed umbrella
+🚌;0x1f68c;2;10;6;4;bus
+♩;0x2669;0;7;11;11;quarter note
+🍡;0x1f361;5;9;4;-1;dango
+❥;0x2765;0;13;5;5;rotated heavy black heart bullet
+🎡;0x1f3a1;1;10;7;6;ferris wheel
+💌;0x1f48c;2;3;12;10;love letter
+🐩;0x1f429;0;10;7;7;poodle
+🌜;0x1f31c;0;7;10;10;last quarter moon with face
+⌚;0x231a;2;9;6;4;watch
+🚿;0x1f6bf;1;3;13;12;shower
+🐖;0x1f416;0;14;3;3;pig
+🔆;0x1f506;0;6;11;11;high brightness symbol
+🌛;0x1f31b;0;6;11;11;first quarter moon with face
+💂;0x1f482;8;4;5;-3;guardsman
+🐔;0x1f414;1;9;7;6;chicken
+🙎;0x1f64e;8;2;7;-1;person with pouting face
+🏩;0x1f3e9;2;4;10;8;love hotel
+🇫;0x1f1eb;0;7;9;9;regional indicator symbol letter f
+🔨;0x1f528;6;6;4;-2;hammer
+📢;0x1f4e2;0;8;8;8;public address loudspeaker
+🐦;0x1f426;0;8;8;8;bird
+🐲;0x1f432;2;13;1;-1;dragon face
+♻;0x267b;0;7;9;9;black universal recycling symbol
+🌘;0x1f318;0;5;11;11;waning crescent moon symbol
+🍐;0x1f350;5;3;8;3;pear
+🌔;0x1f314;0;5;11;11;waxing gibbous moon symbol
+╥;0x2565;6;2;8;2;box drawings down double and horizontal single
+❊;0x274a;0;16;0;0;eight teardrop-spoked propeller asterisk
+👖;0x1f456;1;7;7;6;jeans
+🚺;0x1f6ba;2;8;5;3;womens symbol
+😗;0x1f617;1;2;12;11;kissing face
+🎭;0x1f3ad;5;5;5;0;performing arts
+🐄;0x1f404;2;6;7;5;cow
+◟;0x25df;2;12;1;-1;lower left quadrant circular arc
+🍢;0x1f362;5;7;3;-2;oden
+🎨;0x1f3a8;1;10;4;3;artist palette
+⬇;0x2b07;2;4;9;7;downwards black arrow
+🚼;0x1f6bc;0;5;10;10;baby symbol
+⛲;0x26f2;1;12;2;1;fountain
+▁;0x2581;0;15;0;0;lower one eighth block
+🇴;0x1f1f4;0;9;6;6;regional indicator symbol letter o
+🌗;0x1f317;0;4;11;11;last quarter moon symbol
+🌖;0x1f316;0;4;11;11;waning gibbous moon symbol
+🔅;0x1f505;0;0;15;15;low brightness symbol
+👜;0x1f45c;2;6;6;4;handbag
+🐌;0x1f40c;0;3;11;11;snail
+💼;0x1f4bc;1;3;10;9;briefcase
+🚕;0x1f695;3;8;3;0;taxi
+🐹;0x1f439;3;3;8;5;hamster face
+🌠;0x1f320;2;1;11;9;shooting star
+🐈;0x1f408;0;9;5;5;cat
+⇧;0x21e7;0;12;2;2;upwards white arrow
+☎;0x260e;2;10;2;0;black telephone
+🌁;0x1f301;1;9;4;3;foggy
+⚫;0x26ab;3;4;7;4;medium black circle
+♧;0x2667;0;6;8;8;white club suit
+🏰;0x1f3f0;1;7;6;5;european castle
+🚵;0x1f6b5;0;8;6;6;mountain bicyclist
+🎢;0x1f3a2;1;4;9;8;roller coaster
+🎷;0x1f3b7;0;3;11;11;saxophone
+🎐;0x1f390;0;11;3;3;wind chime
+┈;0x2508;12;0;2;-10;box drawings light quadruple dash horizontal
+╗;0x2557;0;8;6;6;box drawings double down and left
+╱;0x2571;0;14;0;0;box drawings light diagonal upper right to lower left
+🌇;0x1f307;0;5;8;8;sunset over buildings
+⏰;0x23f0;2;2;9;7;alarm clock
+⇩;0x21e9;0;13;0;0;downwards white arrow
+🚂;0x1f682;0;9;4;4;steam locomotive
+◠;0x25e0;0;6;7;7;upper half circle
+🎿;0x1f3bf;1;5;7;6;ski and ski boot
+✦;0x2726;0;12;1;1;black four pointed star
+🆔;0x1f194;0;1;12;12;squared id
+⛪;0x26ea;2;7;4;2;church
+🌒;0x1f312;0;4;9;9;waxing crescent moon symbol
+🐪;0x1f42a;0;4;9;9;dromedary camel
+╔;0x2554;0;9;4;4;box drawings double down and right
+╝;0x255d;0;6;7;7;box drawings double up and left
+👔;0x1f454;2;3;7;5;necktie
+🔱;0x1f531;3;5;4;1;trident emblem
+🆓;0x1f193;0;9;3;3;squared free
+🐋;0x1f40b;2;5;5;3;whale
+▽;0x25bd;1;4;7;6;white down-pointing triangle
+▂;0x2582;0;12;0;0;lower one quarter block
+🐛;0x1f41b;2;4;6;4;bug
+👕;0x1f455;1;4;7;6;t-shirt
+🚋;0x1f68b;0;11;1;1;tram car
+💳;0x1f4b3;1;4;7;6;credit card
+🌆;0x1f306;2;6;4;2;cityscape at dusk
+🏧;0x1f3e7;0;0;12;12;automated teller machine
+💡;0x1f4a1;0;3;9;9;electric light bulb
+🔹;0x1f539;2;6;4;2;small blue diamond
+⬅;0x2b05;0;5;7;7;leftwards black arrow
+🍠;0x1f360;5;2;5;0;roasted sweet potato
+🐫;0x1f42b;0;7;5;5;bactrian camel
+🏪;0x1f3ea;2;7;3;1;convenience store
+۩;0x6e9;0;12;0;0;arabic place of sajdah
+🇱;0x1f1f1;0;6;6;6;regional indicator symbol letter l
+📹;0x1f4f9;1;3;7;6;video camera
+👞;0x1f45e;1;3;7;6;mans shoe
+🚑;0x1f691;3;4;4;1;ambulance
+🆘;0x1f198;4;2;5;1;squared sos
+👚;0x1f45a;0;3;8;8;womans clothes
+🚍;0x1f68d;4;2;5;1;oncoming bus
+□;0x25a1;7;0;4;-3;white square
+🐂;0x1f402;1;7;3;2;ox
+🚣;0x1f6a3;0;3;8;8;rowboat
+✳;0x2733;0;11;0;0;eight spoked asterisk
+🏉;0x1f3c9;0;4;7;7;rugby football
+🗻;0x1f5fb;0;3;8;8;mount fuji
+🐀;0x1f400;1;7;3;2;rat
+╦;0x2566;0;6;5;5;box drawings double down and horizontal
+⛺;0x26fa;1;2;7;6;tent
+🐕;0x1f415;1;5;4;3;dog
+🏂;0x1f3c2;1;3;6;5;snowboarder
+👡;0x1f461;1;3;6;5;womans sandal
+📻;0x1f4fb;1;4;5;4;radio
+✒;0x2712;1;5;4;3;black nib
+🌰;0x1f330;0;3;7;7;chestnut
+🏢;0x1f3e2;0;8;2;2;office building
+🎒;0x1f392;1;2;7;6;school satchel
+⌒;0x2312;0;3;7;7;arc
+🏫;0x1f3eb;6;1;3;-3;school
+📴;0x1f4f4;1;0;9;8;mobile phone off
+🚢;0x1f6a2;3;1;6;3;ship
+🚚;0x1f69a;2;7;1;-1;delivery truck
+🐉;0x1f409;0;8;2;2;dragon
+❒;0x2752;0;7;3;3;upper right shadowed white square
+🐊;0x1f40a;2;5;3;1;crocodile
+🔔;0x1f514;0;0;10;10;bell
+◢;0x25e2;0;2;8;8;black lower right triangle
+🏥;0x1f3e5;1;4;4;3;hospital
+❔;0x2754;3;3;3;0;white question mark ornament
+🚖;0x1f696;3;4;2;-1;oncoming taxi
+🃏;0x1f0cf;3;2;4;1;playing card black joker
+▼;0x25bc;2;4;3;1;black down-pointing triangle
+▌;0x258c;4;4;1;-3;left half block
+☛;0x261b;0;5;4;4;black right pointing index
+✩;0x2729;0;9;0;0;stress outlined white star
+💒;0x1f492;0;3;6;6;wedding
+🚤;0x1f6a4;0;5;4;4;speedboat
+🐐;0x1f410;0;4;5;5;goat
+■;0x25a0;5;2;2;-3;black square
+🔚;0x1f51a;1;3;5;4;end with leftwards arrow above
+🎻;0x1f3bb;0;5;4;4;violin
+🔷;0x1f537;0;7;2;2;large blue diamond
+🚦;0x1f6a6;2;4;3;1;vertical traffic light
+🔓;0x1f513;3;2;4;1;open lock
+🎽;0x1f3bd;0;4;5;5;running shirt with sash
+📅;0x1f4c5;2;3;4;2;calendar
+🎺;0x1f3ba;1;0;8;7;trumpet
+✯;0x272f;0;9;0;0;pinwheel star
+🍈;0x1f348;6;1;2;-4;melon
+✉;0x2709;1;4;4;3;envelope
+╣;0x2563;0;9;0;0;box drawings double vertical and left
+◤;0x25e4;0;0;9;9;black upper left triangle
+○;0x25cb;0;3;5;5;white circle
+🍼;0x1f37c;1;1;6;5;baby bottle
+📀;0x1f4c0;1;5;2;1;dvd
+🚛;0x1f69b;2;6;0;-2;articulated lorry
+📓;0x1f4d3;1;4;3;2;notebook
+☉;0x2609;0;6;2;2;sun
+💴;0x1f4b4;3;4;1;-2;banknote with yen sign
+┼;0x253c;2;4;2;0;box drawings light vertical and horizontal
+🐃;0x1f403;0;8;0;0;water buffalo
+➰;0x27b0;4;1;3;-1;curly loop
+🔌;0x1f50c;3;3;2;-1;electric plug
+🍄;0x1f344;2;4;2;0;mushroom
+📕;0x1f4d5;1;4;3;2;closed book
+📣;0x1f4e3;1;2;5;4;cheering megaphone
+🚓;0x1f693;0;5;3;3;police car
+🐗;0x1f417;0;3;5;5;boar
+↪;0x21aa;0;7;1;1;rightwards arrow with hook
+⛳;0x26f3;0;1;7;7;flag in hole
+┻;0x253b;6;0;2;-4;box drawings heavy up and horizontal
+┛;0x251b;0;2;6;6;box drawings heavy up and left
+┃;0x2503;0;4;4;4;box drawings heavy vertical
+👱;0x1f471;1;4;2;1;person with blond hair
+⏳;0x23f3;3;1;3;0;hourglass with flowing sand
+💺;0x1f4ba;1;3;3;2;seat
+🏇;0x1f3c7;3;2;2;-1;horse racing
+☻;0x263b;1;3;3;2;black smiling face
+📞;0x1f4de;0;3;4;4;telephone receiver
+Ⓐ;0x24b6;2;4;1;-1;circled latin capital letter a
+🌉;0x1f309;0;2;5;5;bridge at night
+🚩;0x1f6a9;3;3;1;-2;triangular flag on post
+✎;0x270e;0;2;5;5;lower right pencil
+📃;0x1f4c3;0;3;4;4;page with curl
+🏨;0x1f3e8;0;5;2;2;hotel
+📌;0x1f4cc;5;1;1;-4;pushpin
+♎;0x264e;2;4;1;-1;libra
+💷;0x1f4b7;0;3;4;4;banknote with pound sign
+🚄;0x1f684;0;2;5;5;high-speed train
+▲;0x25b2;0;2;5;5;black up-pointing triangle
+⛵;0x26f5;0;2;5;5;sailboat
+🔸;0x1f538;0;5;2;2;small orange diamond
+⌛;0x231b;2;2;3;1;hourglass
+🚜;0x1f69c;0;0;7;7;tractor
+🐆;0x1f406;0;4;3;3;leopard
+👒;0x1f452;1;3;3;2;womans hat
+❕;0x2755;1;3;3;2;white exclamation mark ornament
+🔛;0x1f51b;1;1;5;4;on with exclamation mark with left right arrow above
+♢;0x2662;0;4;3;3;white diamond suit
+🇲;0x1f1f2;0;3;4;4;regional indicator symbol letter m
+❅;0x2745;0;1;6;6;tight trifoliate snowflake
+👝;0x1f45d;1;1;4;3;pouch
+✞;0x271e;0;3;3;3;shadowed white latin cross
+◡;0x25e1;0;4;2;2;lower half circle
+🎋;0x1f38b;1;0;5;4;tanabata tree
+👥;0x1f465;1;2;3;2;busts in silhouette
+📵;0x1f4f5;1;3;2;1;no mobile phones
+🐡;0x1f421;0;4;2;2;blowfish
+◆;0x25c6;0;1;5;5;black diamond
+🏯;0x1f3ef;0;5;1;1;japanese castle
+☂;0x2602;1;4;1;0;umbrella
+🔭;0x1f52d;0;3;3;3;telescope
+🎪;0x1f3aa;0;4;2;2;circus tent
+🐜;0x1f41c;0;2;4;4;ant
+♌;0x264c;0;1;5;5;leo
+☐;0x2610;6;0;0;-6;ballot box
+👷;0x1f477;1;2;3;2;construction worker
+↳;0x21b3;0;6;0;0;downwards arrow with tip rightwards
+🔈;0x1f508;0;4;2;2;speaker
+📄;0x1f4c4;0;0;6;6;page facing up
+📍;0x1f4cd;1;3;2;1;round pushpin
+🚐;0x1f690;0;1;5;5;minibus
+🚔;0x1f694;1;4;1;0;oncoming police car
+🌋;0x1f30b;0;2;4;4;volcano
+📡;0x1f4e1;1;2;3;2;satellite antenna
+⏩;0x23e9;0;5;1;1;black right-pointing double triangle
+🚳;0x1f6b3;0;0;6;6;no bicycles
+✘;0x2718;0;1;5;5;heavy ballot x
+۞;0x6de;0;6;0;0;arabic start of rub el hizb
+☾;0x263e;0;6;0;0;last quarter moon
+🅰;0x1f170;1;2;3;2;negative squared latin capital letter a
+📥;0x1f4e5;0;6;0;0;inbox tray
+🇼;0x1f1fc;0;3;3;3;regional indicator symbol letter w
+┓;0x2513;0;2;4;4;box drawings heavy down and left
+┣;0x2523;0;2;4;4;box drawings heavy vertical and right
+Ⓛ;0x24c1;0;3;3;3;circled latin capital letter l
+Ⓔ;0x24ba;0;3;3;3;circled latin capital letter e
+🔦;0x1f526;0;5;0;0;electric torch
+👤;0x1f464;0;1;4;4;bust in silhouette
+🚁;0x1f681;0;4;1;1;helicopter
+🎠;0x1f3a0;0;2;3;3;carousel horse
+🐁;0x1f401;2;3;0;-2;mouse
+📗;0x1f4d7;1;2;2;1;green book
+┐;0x2510;2;2;1;-1;box drawings light down and left
+☮;0x262e;2;1;2;0;peace symbol
+♂;0x2642;0;4;1;1;male sign
+◞;0x25de;1;3;1;0;lower right quadrant circular arc
+📯;0x1f4ef;1;4;0;-1;postal horn
+🔩;0x1f529;1;2;2;1;nut and bolt
+👢;0x1f462;0;1;4;4;womans boots
+◂;0x25c2;0;3;2;2;black left-pointing small triangle
+📰;0x1f4f0;1;1;3;2;newspaper
+📶;0x1f4f6;0;3;2;2;antenna with bars
+🚥;0x1f6a5;1;3;1;0;horizontal traffic light
+🌄;0x1f304;0;4;1;1;sunrise over mountains
+🗾;0x1f5fe;0;3;2;2;silhouette of japan
+🔶;0x1f536;0;3;2;2;large orange diamond
+🏤;0x1f3e4;0;3;2;2;european post office
+🎩;0x1f3a9;0;3;2;2;top hat
+Ⓜ;0x24c2;1;1;3;2;circled latin capital letter m
+🔧;0x1f527;4;0;1;-3;wrench
+🐅;0x1f405;0;4;1;1;tiger
+♮;0x266e;0;4;1;1;music natural sign
+🅾;0x1f17e;2;2;1;-1;negative squared latin capital letter o
+🔄;0x1f504;0;5;0;0;anticlockwise downwards and upwards open circle arrows
+☄;0x2604;0;5;0;0;comet
+☨;0x2628;0;5;0;0;cross of lorraine
+📦;0x1f4e6;0;3;1;1;package
+🚊;0x1f68a;1;1;2;1;tram
+🔲;0x1f532;0;1;3;3;black square button
+🔁;0x1f501;1;2;1;0;clockwise rightwards and leftwards open circle arrows
+△;0x25b3;0;3;1;1;white up-pointing triangle
+📆;0x1f4c6;0;0;4;4;tear-off calendar
+❛;0x275b;0;2;2;2;heavy single turned comma quotation mark ornament
+📉;0x1f4c9;0;2;2;2;chart with downwards trend
+▵;0x25b5;0;2;2;2;white up-pointing small triangle
+🔎;0x1f50e;0;1;3;3;right-pointing magnifying glass
+☜;0x261c;0;3;1;1;white left pointing index
+🇯;0x1f1ef;0;2;2;2;regional indicator symbol letter j
+🇵;0x1f1f5;0;2;2;2;regional indicator symbol letter p
+📘;0x1f4d8;1;1;2;1;blue book
+✡;0x2721;0;4;0;0;star of david
+ⓔ;0x24d4;0;1;3;3;circled latin small letter e
+🔑;0x1f511;1;1;2;1;key
+🔃;0x1f503;1;2;1;0;clockwise downwards and upwards open circle arrows
+👃;0x1f443;2;0;2;0;nose
+⭕;0x2b55;0;2;2;2;heavy large circle
+🔘;0x1f518;0;3;1;1;radio button
+ⓒ;0x24d2;2;0;2;0;circled latin small letter c
+🚭;0x1f6ad;0;0;4;4;no smoking symbol
+🚉;0x1f689;0;1;3;3;station
+🚪;0x1f6aa;0;1;3;3;door
+➳;0x27b3;0;2;2;2;white-feathered rightwards arrow
+🚃;0x1f683;0;1;3;3;railway car
+┯;0x252f;2;2;0;-2;box drawings down light and horizontal heavy
+🏬;0x1f3ec;0;4;0;0;department store
+☽;0x263d;0;4;0;0;first quarter moon
+🆙;0x1f199;0;2;2;2;squared up with exclamation mark
+🆖;0x1f196;1;1;2;1;squared ng
+☪;0x262a;0;4;0;0;star and crescent
+┗;0x2517;0;0;4;4;box drawings heavy up and right
+🚮;0x1f6ae;2;0;2;0;put litter in its place symbol
+┫;0x252b;0;4;0;0;box drawings heavy vertical and left
+Ⓞ;0x24c4;0;2;2;2;circled latin capital letter o
+❇;0x2747;0;1;2;2;sparkle
+✴;0x2734;0;1;2;2;eight pointed black star
+┌;0x250c;1;1;1;0;box drawings light down and right
+☊;0x260a;0;0;3;3;ascending node
+🔕;0x1f515;2;0;1;-1;bell with cancellation stroke
+⬛;0x2b1b;2;0;1;-1;black large square
+❝;0x275d;0;3;0;0;heavy double turned comma quotation mark ornament
+❞;0x275e;0;3;0;0;heavy double comma quotation mark ornament
+🚞;0x1f69e;0;1;2;2;mountain railway
+🍶;0x1f376;0;1;2;2;sake bottle and cup
+🌐;0x1f310;0;1;2;2;globe with meridians
+♀;0x2640;0;2;1;1;female sign
+🚅;0x1f685;0;1;2;2;high-speed train with bullet nose
+🚒;0x1f692;1;2;0;-1;fire engine
+➣;0x27a3;0;3;0;0;three-d bottom-lighted rightwards arrowhead
+♋;0x264b;0;2;1;1;cancer
+♍;0x264d;0;1;2;2;virgo
+🕝;0x1f55d;1;2;0;-1;clock face two-thirty
+ⓐ;0x24d0;0;0;3;3;circled latin small letter a
+✗;0x2717;1;1;1;0;ballot x
+📙;0x1f4d9;1;0;2;1;orange book
+Ⓢ;0x24c8;0;2;1;1;circled latin capital letter s
+📋;0x1f4cb;0;1;2;2;clipboard
+⇢;0x21e2;1;1;1;0;rightwards dashed arrow
+🎱;0x1f3b1;1;0;2;1;billiards
+🐞;0x1f41e;0;2;1;1;lady beetle
+🔺;0x1f53a;0;2;1;1;up-pointing red triangle
+ⓡ;0x24e1;0;0;3;3;circled latin small letter r
+🎍;0x1f38d;0;3;0;0;pine decoration
+♤;0x2664;0;1;2;2;white spade suit
+🎲;0x1f3b2;0;3;0;0;game die
+🎯;0x1f3af;0;1;2;2;direct hit
+〠;0x3020;0;3;0;0;postal mark face
+🔉;0x1f509;0;1;2;2;speaker with one sound wave
+↩;0x21a9;0;0;3;3;leftwards arrow with hook
+🚾;0x1f6be;0;2;1;1;water closet
+🎣;0x1f3a3;2;1;0;-2;fishing pole and fish
+🔣;0x1f523;0;2;1;1;input symbol for symbols
+❎;0x274e;3;0;0;-3;negative squared cross mark
+➥;0x27a5;0;2;1;1;heavy black curved downwards and rightwards arrow
+🅱;0x1f171;0;3;0;0;negative squared latin capital letter b
+🎌;0x1f38c;0;0;3;3;crossed flags
+◣;0x25e3;0;2;1;1;black lower left triangle
+⏬;0x23ec;0;0;3;3;black down-pointing double triangle
+♭;0x266d;0;2;1;1;music flat sign
+💠;0x1f4a0;0;3;0;0;diamond shape with a dot inside
+ⓞ;0x24de;0;0;2;2;circled latin small letter o
+🔳;0x1f533;0;1;1;1;white square button
+🏭;0x1f3ed;0;1;1;1;factory
+🔰;0x1f530;0;2;0;0;japanese symbol for beginner
+🎳;0x1f3b3;1;1;0;-1;bowling
+☚;0x261a;0;0;2;2;black left pointing index
+➽;0x27bd;0;1;1;1;heavy wedge-tailed rightwards arrow
+➫;0x27ab;0;1;1;1;back-tilted shadowed white rightwards arrow
+➖;0x2796;2;0;0;-2;heavy minus sign
+🏮;0x1f3ee;0;2;0;0;izakaya lantern
+📛;0x1f4db;0;2;0;0;name badge
+꒰;0xa4b0;0;1;1;1;yi radical shy
+꒱;0xa4b1;0;1;1;1;yi radical vep
+◝;0x25dd;1;1;0;-1;upper right quadrant circular arc
+📑;0x1f4d1;0;0;2;2;bookmark tabs
+🎦;0x1f3a6;0;2;0;0;cinema
+ⓧ;0x24e7;0;0;2;2;circled latin small letter x
+🇨;0x1f1e8;0;2;0;0;regional indicator symbol letter c
+🇳;0x1f1f3;0;2;0;0;regional indicator symbol letter n
+🔟;0x1f51f;0;0;2;2;keycap ten
+〓;0x3013;0;0;2;2;geta mark
+ⓜ;0x24dc;0;1;1;1;circled latin small letter m
+➠;0x27a0;0;0;2;2;heavy dashed triangle-headed rightwards arrow
+🚆;0x1f686;0;1;1;1;train
+🚠;0x1f6a0;0;2;0;0;mountain cableway
+℅;0x2105;2;0;0;-2;care of
+☃;0x2603;0;1;1;1;snowman
+🚽;0x1f6bd;0;0;2;2;toilet
+📐;0x1f4d0;0;2;0;0;triangular ruler
+ⓝ;0x24dd;0;0;2;2;circled latin small letter n
+✮;0x272e;0;2;0;0;heavy outlined black star
+⇦;0x21e6;0;0;2;2;leftwards white arrow
+👲;0x1f472;0;1;1;1;man with gua pi mao
+🚡;0x1f6a1;1;1;0;-1;aerial tramway
+🎑;0x1f391;0;2;0;0;moon viewing ceremony
+🔬;0x1f52c;0;0;2;2;microscope
+➗;0x2797;1;1;0;-1;heavy division sign
+📈;0x1f4c8;0;1;1;1;chart with upwards trend
+⌘;0x2318;0;2;0;0;place of interest sign
+⏪;0x23ea;0;1;1;1;black left-pointing double triangle
+╹;0x2579;0;2;0;0;box drawings heavy up
+◎;0x25ce;0;0;2;2;bullseye
+🔼;0x1f53c;0;2;0;0;up-pointing small red triangle
+꒦;0xa4a6;2;0;0;-2;yi radical gguo
+📎;0x1f4ce;0;0;2;2;paperclip
+⑅;0x2445;0;0;2;2;ocr bow tie
+⍝;0x235d;0;2;0;0;apl functional symbol up shoe jot
+📁;0x1f4c1;0;2;0;0;file folder
+✭;0x272d;0;0;2;2;outlined black star
+➲;0x27b2;0;2;0;0;circled heavy white rightwards arrow
+♓;0x2653;0;1;1;1;pisces
+┏;0x250f;0;0;2;2;box drawings heavy down and right
+☇;0x2607;0;0;2;2;lightning
+♺;0x267a;0;2;0;0;recycling symbol for generic materials
+♞;0x265e;0;2;0;0;black chess knight
+࿎;0xfce;2;0;0;-2;tibetan sign rdel nag rdel dkar
+📠;0x1f4e0;0;2;0;0;fax machine
+👘;0x1f458;0;0;2;2;kimono
+↙;0x2199;0;0;2;2;south west arrow
+Ⓕ;0x24bb;0;1;1;1;circled latin capital letter f
+Ⓦ;0x24cc;0;1;1;1;circled latin capital letter w
+Ⓟ;0x24c5;0;1;1;1;circled latin capital letter p
+🕑;0x1f551;0;1;1;1;clock face two oclock
+💽;0x1f4bd;0;1;0;0;minidisc
+🕛;0x1f55b;0;0;1;1;clock face twelve oclock
+🎫;0x1f3ab;0;1;0;0;ticket
+♈;0x2648;1;0;0;-1;aries
+📟;0x1f4df;0;1;0;0;pager
+℃;0x2103;0;1;0;0;degree celsius
+↬;0x21ac;0;0;1;1;rightwards arrow with loop
+🕒;0x1f552;0;1;0;0;clock face three oclock
+🇰;0x1f1f0;0;1;0;0;regional indicator symbol letter k
+↱;0x21b1;0;1;0;0;upwards arrow with tip rightwards
+✍;0x270d;0;0;1;1;writing hand
+⇐;0x21d0;0;1;0;0;leftwards double arrow
+🏦;0x1f3e6;0;0;1;1;bank
+🔻;0x1f53b;0;0;1;1;down-pointing red triangle
+ⓟ;0x24df;0;0;1;1;circled latin small letter p
+ⓕ;0x24d5;0;0;1;1;circled latin small letter f
+ⓘ;0x24d8;0;0;1;1;circled latin small letter i
+♿;0x267f;0;0;1;1;wheelchair symbol
+⇗;0x21d7;0;0;1;1;north east double arrow
+⇘;0x21d8;0;0;1;1;south east double arrow
+ⓨ;0x24e8;0;0;1;1;circled latin small letter y
+ⓙ;0x24d9;0;0;1;1;circled latin small letter j
+▫;0x25ab;0;0;1;1;white small square
+🔇;0x1f507;0;0;1;1;speaker with cancellation stroke
+⌃;0x2303;1;0;0;-1;up arrowhead
+🔖;0x1f516;0;0;1;1;bookmark
+📜;0x1f4dc;0;0;1;1;scroll
+♏;0x264f;0;1;0;0;scorpius
+🚝;0x1f69d;0;0;1;1;monorail
+☢;0x2622;0;1;0;0;radioactive sign
+🎏;0x1f38f;0;1;0;0;carp streamer
+┘;0x2518;1;0;0;-1;box drawings light up and left
+✝;0x271d;1;0;0;-1;latin cross
+❖;0x2756;0;1;0;0;black diamond minus white x
+⍣;0x2363;1;0;0;-1;apl functional symbol star diaeresis
+📮;0x1f4ee;1;0;0;-1;postbox
+🕕;0x1f555;1;0;0;-1;clock face six oclock
+🇭;0x1f1ed;0;1;0;0;regional indicator symbol letter h
+◜;0x25dc;0;1;0;0;upper left quadrant circular arc
+🔯;0x1f52f;0;0;1;1;six pointed star with middle dot
+➸;0x27b8;0;0;1;1;heavy black-feathered rightwards arrow
+꒵;0xa4b5;0;0;1;1;yi radical jjy
+🕥;0x1f565;1;0;0;-1;clock face ten-thirty
+♙;0x2659;0;1;0;0;white chess pawn
+▿;0x25bf;0;1;0;0;white down-pointing small triangle
+⚃;0x2683;0;1;0;0;die face-4
+✽;0x273d;0;0;1;1;heavy teardrop-spoked asterisk
+📼;0x1f4fc;0;0;1;1;videocassette
+🕐;0x1f550;1;0;0;-1;clock face one oclock
+🀄;0x1f004;0;0;1;1;mahjong tile red dragon
+✾;0x273e;0;1;0;0;six petalled black and white florette
+✬;0x272c;0;0;1;1;black centre white star
+🆑;0x1f191;0;1;0;0;squared cl
+✫;0x272b;0;0;1;1;open centre black star
+🕔;0x1f554;1;0;0;-1;clock face five oclock
+❣;0x2763;0;0;1;1;heavy heart exclamation mark ornament
+➱;0x27b1;0;1;0;0;notched upper right-shadowed white rightwards arrow
+🆕;0x1f195;0;1;0;0;squared new
+➢;0x27a2;0;1;0;0;three-d top-lighted rightwards arrowhead
+↕;0x2195;0;1;0;0;up down arrow
+📫;0x1f4eb;0;0;1;1;closed mailbox with raised flag
+🉐;0x1f250;0;0;1;1;circled ideograph advantage
+♊;0x264a;0;1;0;0;gemini
+🈂;0x1f202;1;0;0;-1;squared katakana sa
+🎰;0x1f3b0;1;0;0;-1;slot machine
+҂;0x482;1;0;0;-1;cyrillic thousands sign
+╤;0x2564;1;0;0;-1;box drawings down single and horizontal double
+➛;0x279b;0;1;0;0;drafting point rightwards arrow
+♝;0x265d;0;1;0;0;black chess bishop
+❋;0x274b;0;1;0;0;heavy eight teardrop-spoked propeller asterisk
+✆;0x2706;0;1;0;0;telephone location sign
+📔;0x1f4d4;0;0;1;1;notebook with decorative cover

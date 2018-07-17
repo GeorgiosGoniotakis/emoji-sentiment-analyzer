@@ -1,5 +1,6 @@
 import os
 
+from numpy import mean, round
 from pandas import read_csv
 from nltk.tokenize import word_tokenize
 
@@ -36,6 +37,7 @@ class EmojiLoader:
         :param sentence:
         :return: Filtered sentence, list with emojis and scores
         """
+        print("Initial sentence: {}".format(sentence))
         words = word_tokenize(sentence)
         elements = list()
 
@@ -43,6 +45,8 @@ class EmojiLoader:
             if word in self.__emoji_table:
                 elements.append(words.pop(index))
 
+        print("Detokenized Sentence: {}".format(self.__detokenize_sentence(words)))
+        print("Elements found: {}".format(elements))
         return self.__detokenize_sentence(words), elements
 
     def __detokenize_sentence(self, words):
@@ -58,8 +62,32 @@ class EmojiLoader:
     def __sentiment_score(self, emojis):
         return [[e, self.__emoji_sentiment_score(e)] for e in emojis]
 
+    def __calculate_average(self, emojis):
+        scores = [s[1] for s in emojis]
+        return round(mean(scores), 4)
+
+    def __validate_sentence(self, sentence):
+        if sentence is None or len(sentence) == 0:
+            print("Invalid sentence")
+            return False
+        return True
+
+    def sentiment_analyze_detailed(self, sentence):
+        if self.__validate_sentence(sentence):
+            filtered_sentence, emojis = self.__extract_emoticons(sentence)
+            if not emojis:
+                print("Sentence does not contain any emojis.")
+                return 0
+            else:
+                emoji_table = self.__sentiment_score(emojis)
+                average = self.__calculate_average(emoji_table)
+                return emoji_table, average
+
     def sentiment_analyze(self, sentence):
-        filtered_sentence, emojis = self.__extract_emoticons(sentence)
-        return self.__sentiment_score(emojis)
-
-
+        if self.__validate_sentence(sentence):
+            filtered_sentence, emojis = self.__extract_emoticons(sentence)
+            if not emojis:
+                print("Sentence does not contain any emojis.")
+                return 0
+            else:
+                return self.__calculate_average(self.__sentiment_score(emojis))
